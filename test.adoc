@@ -1,0 +1,20 @@
+= Topic en asciidoc
+:example-caption!: 
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+This documentation explains how to use the Pavel Robotics toothbrush. 
+
+Note: This toothbrush is totally safe to use for children, adults, or pets.
+
+[Note]
+.Titre de la note
+====
+This toothbrush is totally safe to use for children, adults, or pets.
+====
+
