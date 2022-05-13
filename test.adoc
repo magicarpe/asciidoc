@@ -1,5 +1,7 @@
 = Topic en asciidoc
 :example-caption!: 
+:toc: macro
+:toc-title: Sommaire
 ifdef::env-github[]
 :tip-caption: :bulb:
 :note-caption: :information_source:
@@ -8,13 +10,18 @@ ifdef::env-github[]
 :warning-caption: :warning:
 endif::[]
 
+
+
 This documentation explains how to use the Pavel Robotics toothbrush. 
 
 Note: This toothbrush is totally safe to use for children, adults, or pets.
 
-[Note]
-.Titre de la note
-====
-This toothbrush is totally safe to use for children, adults, or pets.
-====
 
+
+toc::[]
+
+== Premier titre 
+
+== Deuxième titre 
+
+== Troisième titre
